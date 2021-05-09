@@ -3,8 +3,6 @@
 [![Website Badge](https://img.shields.io/website?url=https%3A%2F%2Fwesraiuga.github.io%2Fweslley-cv%2F)](https://wesraiuga-sds3.netlify.app/)
 [![NPM](https://img.shields.io/npm/l/react)](https://github.com/WesRaiuga/projeto-sds3/blob/main/LICENSE) 
 
-<br/>
-
 # Sobre o projeto
 
 https://wesraiuga-sds3.netlify.app/
@@ -21,8 +19,6 @@ A aplicação consiste em um dashboard de vendas, previamente cadastradas no ban
 ## Modelo conceitual
 ![Modelo Conceitual](./readme_assets/sds3-mc.png)
 
-<br/>
-
 # Tecnologias utilizadas
 ## Back end
 - Java
@@ -37,8 +33,6 @@ A aplicação consiste em um dashboard de vendas, previamente cadastradas no ban
 - Back end: Heroku
 - Front end web: Netlify
 - Banco de dados: Postgresql
-
-<br/>
 
 # Como executar o projeto
 
@@ -73,15 +67,11 @@ yarn install
 yarn start
 ```
 
-<br/>
-
 # Autor
 
 Weslley Alves de Aguiar
 
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wesraiuga/)
-
-<br/>
 
 # Referência e agradecimentos
 
